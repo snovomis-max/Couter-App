@@ -1,0 +1,18 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.line {
+    text-align: center;
+}
+
+button {
+    min-width: 60px;
+    max-width: 60px;
+    margin: 15px;
+}
+
+.centering {
+    display: flex;
+    justify-content: center;
+}
